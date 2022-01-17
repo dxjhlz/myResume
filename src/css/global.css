@@ -1,0 +1,18 @@
+*,
+li {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+html, body{
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+body{
+  overflow: hidden;
+}
+a {
+  color: #eee;
+  text-decoration: none;
+}

@@ -17,7 +17,7 @@ window.onload = function(){
   // 全局banner
   // 新建 swiper 实例
   var mySwiper = new Swiper('.swiper-container1', {
-  width : window.innerBidth,
+  width : window.innerWidth,
   height : window.innerHeight,
   direction: 'vertical',
   // 如果需要分页器
